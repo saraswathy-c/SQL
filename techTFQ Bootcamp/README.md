@@ -11,5 +11,6 @@
 ✨	6 case studies, 100+ SQL problems, 50 interview Qs<br>
 ✨	LIVE problem-solving with business scenarios<br>
 
-[Visit techTFQ YT channel] (https://www.youtube.com/@techTFQ)
-- [GitHub](https://github.com)
+#####Resources
+- [Visit techTFQ YT channel](https://www.youtube.com/@techTFQ)
+
