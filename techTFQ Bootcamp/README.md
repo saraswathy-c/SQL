@@ -12,7 +12,7 @@
 ✨	LIVE problem-solving with business scenarios<br>
 
 ##### *Resources*
-- <a href="[https://www.youtube.com/@techTFQ]" target="_blank">techTFQ YT channel</a>
-- <a href="[https://bootcamp.techtfq.com]" target="_blank">techTFQ website</a>
+- <a href="https://www.youtube.com/@techTFQ" target="_blank">techTFQ YT channel</a>
+- <a href="https://bootcamp.techtfq.com" target="_blank">techTFQ website</a>
 
 
