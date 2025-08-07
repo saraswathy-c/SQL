@@ -3,16 +3,14 @@
 ✨	The session introduced us to Databases, DBMS and SQL. <br>
 ✨	Covered the basic types of different SQL commands: DDL, DML, DCL, TCL and DQL. Also discussed about constraints and data types. <br>
 ✨	The session introduced us to **Snowflake** - primarily a cloud-based data warehouse. <br>
-#### About Snowflake:
+#### About Snowflake: <br>
 Just need a web-based user interface, from which all aspects of managing and using Snowflake can be accessed.  <br>
 Snowflake runs completely on cloud infrastructure. <br>
-Snowflake is a true self-managed service.  <br>
+Snowflake is a true self-managed service.  <br> <br>
 ✨  During the session, we learnt how to create Snowflake objects, load CSV data files, write and execute sample queries.<br>
-
 ✨	Studied the **UPI Transactions** dataset and solved the sample queries.<br>
-This dataset simulates realistic Unified Payments Interface (UPI) transactions across various merchant categories in India. <br>
-It is designed to reflect real-world digital payment patterns, including temporal, demographic, and behavioural features relevant for fraud detection, consumer analytics, and business intelligence. <br>
-####✨  Problem Statement: <br>
+This dataset simulates realistic Unified Payments Interface (UPI) transactions across various merchant categories in India. It is designed to reflect real-world digital payment patterns, including temporal, demographic, and behavioural features relevant for fraud detection, consumer analytics, and business intelligence. <br>
+####  Problem Statement: <br>
 1.Display 5 sample transactions.<br>
 2. Display the first 20 transactions.<br>
 3.Fetch the transactions worth less than 100 INR. Display only the amount and merchant category.<br>
