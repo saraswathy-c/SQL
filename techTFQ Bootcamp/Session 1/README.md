@@ -4,7 +4,7 @@
 ✨	Covered the basic types of different SQL commands: DDL, DML, DCL, TCL and DQL. Also discussed about constraints and data types. <br>
 ✨	The session introduced us to **Snowflake** - primarily a cloud-based data warehouse. <br>
 #### About Snowflake: <br>
-    It provides a single platform for storing and analyzing data, offering features like scalable storage and computing, and         enabling data sharing and collaboration across different cloud environments.
+    It provides a single platform for storing and analyzing data, offering features like scalable storage and computing, and enabling data sharing and collaboration across different cloud environments.
     Just need a web-based user interface, from which all aspects of managing and using Snowflake can be accessed.  
     Snowflake runs completely on cloud infrastructure. 
     Snowflake is a true self-managed service.  
