@@ -1,0 +1,1 @@
+The objective of this analysis is to design and implement a loyalty points system based on user activity (deposits, withdrawals, and gameplay), rank users for the month of October, and propose a fair bonus distribution strategy.
